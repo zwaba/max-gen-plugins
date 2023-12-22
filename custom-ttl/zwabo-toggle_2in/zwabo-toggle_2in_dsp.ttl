@@ -57,7 +57,7 @@
         lv2:portProperty lv2:toggled ;
     ] ;
 
-    rdfs:comment "Generated from Max gen~ and github.com/moddevices/max-gen-plugins" ;
+    rdfs:comment "Same as MOD Switchbox 2-1, but MIDI and CV assignable" ;
 
     mod:brand "zwabo" ;
     mod:label "Toggle_2IN" ;
